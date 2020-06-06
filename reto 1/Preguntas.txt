@@ -1,0 +1,17 @@
+Pregunta 1
+
+Cómo defines una función?
+Primero se tiene que tener en cuenta si el código a declarar será usado en diferentes secciones del proyecto. En caso sí, se procede a declarar la función de la siguiente forma:
+
+tipo_de_retorno nombre_funcion(parámetros) {
+	Instrucciones a realizar
+
+    return expresión
+}
+
+--------------------------------
+
+Pregunta 2
+
+Hasta cuantos argumentos puedes declarar en una función?
+En una función se pueden declaran 'n' argumentos, siempre y cuando en la función declarada inicialmente tenga como parámetro final ...moreNumbers => REST
